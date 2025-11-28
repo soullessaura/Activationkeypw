@@ -19,5 +19,11 @@
         "password": "nfe9812",
         "expirydate": "31-12-2029",
         "Allowoffline": true
+    },{
+        "device_id": "3826d863b4d40381",
+        "username": "pradeep",
+        "password": "pradeep00",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
     }
 ]
