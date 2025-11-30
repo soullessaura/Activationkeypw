@@ -25,5 +25,11 @@
         "password": "pradeep00",
         "expirydate": "15-06-2029",
         "Allowoffline": false
+    },{
+        "device_id": "4ce39d7ecd4a9e4a",
+        "username": "dipu",
+        "password": "dipu00",
+        "expirydate": "31-12-2029",
+        "Allowoffline": true
     }
 ]
